@@ -1,9 +1,8 @@
 # sakura-editer.ini files for pixilang
-sakura-editor's .ini files for pixilang
-sakura-editor
-http://sakura-editor.sourceforge.net/
-pixilang
-http://www.warmplace.ru/soft/pixilang/
+## sakura-editor
+### http://sakura-editor.sourceforge.net/
+## pixilang
+### http://www.warmplace.ru/soft/pixilang/
 
-pixilangのサクラエディタ用設定ファイルです。
+### pixilangのサクラエディタ用設定ファイルです。
 
