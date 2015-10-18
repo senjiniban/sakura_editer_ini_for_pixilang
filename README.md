@@ -1,6 +1,6 @@
-##  sakura-editer's .ini files for pixilang
+##  sakura-editer's .ini files for pixilangV3
 
-[sakura-editor](http://sakura-editor.sourceforge.net/)
+[sakura-editor](http://sourceforge.net/projects/sakura-editor/)
 
 [pixilang](http://www.warmplace.ru/soft/pixilang/) 
 
