@@ -50,6 +50,7 @@ fgetc
 fgets
 file_dialog
 flist_next
+fn
 fload
 floor
 fopen
@@ -63,6 +64,7 @@ fsave
 fseek
 ftell
 fwrite
+generator
 get_alpha
 get_blend
 get_blue
@@ -149,6 +151,7 @@ pow
 prefs_dialog
 print
 printf
+ret
 remove
 remove_anim
 remove_file
